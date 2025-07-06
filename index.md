@@ -1,8 +1,8 @@
 ---
-title: "My GitHub Pages with {{ site.theme_name }}"
+title: "My GitHub Pages with Timur Samanchi "
 ---
 
-# 🌟 Welcome to My GitHub Pages Site
+# 🌟 Welcome to My GitHub Pages Site - Kubernetes test
 
 This is my first GitHub Pages site using the **{{ site.theme_name }} Jekyll theme**.
 
