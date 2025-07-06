@@ -4,7 +4,7 @@ title: "My GitHub Pages with Minima"
 
 # 🌟 Welcome to My GitHub Pages Site
 
-This is my first GitHub Pages site using the **Minima Jekyll theme**.
+This is my first GitHub Pages site using the **jekyll-theme-cayman Jekyll theme**.
 
 Feel free to explore and edit this page!
 
