@@ -17,3 +17,6 @@ Feel free to explore and edit this page!
 
 You can find me on:
 - GitHub: [timursamanchi](https://github.com/timursamanchi)
+
+## website link to my kuberenets test
+https://timursamanchi.github.io/
